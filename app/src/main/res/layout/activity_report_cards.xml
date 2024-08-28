@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightYellowGold"
+    tools:context=".TutorialSubActivities.LockerActivity">
+
+    <ImageView
+        android:id="@+id/tutorialsBack"
+        android:layout_width="368.4dp"
+        android:layout_height="178.8dp"
+        android:layout_marginLeft="39dp"
+        android:layout_marginBottom="530dp"
+        android:background="@drawable/ts_top"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/lockerTutorial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        app:autoPlay="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:showFullScreenButton="false"
+        app:showSeekBar="true"
+        app:showVideoDuration="true"
+        app:showVideoCurrentTime="true"
+        app:showYouTubeButton="false"
+        app:videoId="JGQq-ocaQ70" />
+
+    <ImageView
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="305dp"
+        android:background="@drawable/school_report_card__credit_shutterstock_1_com_"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginLeft="21dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginRight="21dp"
+        android:background="@drawable/group_91"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

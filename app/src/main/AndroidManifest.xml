@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ababud">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_aba_bud_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_aba_bud_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MapsDuplicateActivity"></activity>
+        <activity android:name=".TutorialSubActivities.ActivitiesActivity" />
+        <activity android:name=".TutorialSubActivities.ReportCardsActivity" />
+        <activity android:name=".TutorialSubActivities.PTSCActivity" />
+        <activity android:name=".TutorialSubActivities.FoodActivity" />
+        <activity android:name=".TutorialSubActivities.UniformActivity" />
+        <activity android:name=".TutorialSubActivities.BookActivity" />
+        <activity android:name=".TutorialSubActivities.PayActivity" />
+        <activity android:name=".TutorialSubActivities.GoogleClassroomActivity" />
+        <activity android:name=".TutorialSubActivities.ManageBacActivity" />
+        <activity android:name=".TutorialSubActivities.LockerActivity" />
+        <activity android:name=".ActivitiesActivity" />
+        <activity android:name=".TutorialsActivity" />
+        <activity android:name=".MapsActivity" />
+        <activity android:name=".ShopsActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".LoadingActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

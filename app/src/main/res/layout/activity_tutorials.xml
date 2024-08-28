@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TutorialsActivity"
+    android:background="@color/lightYellowGold">
+
+    <ImageView
+        android:id="@+id/tutorialsBack"
+        android:layout_width="368.4dp"
+        android:layout_height="178.8dp"
+        android:layout_marginLeft="39dp"
+        android:layout_marginBottom="530dp"
+        android:background="@drawable/ts_top"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:layout_width="303dp"
+        android:layout_height="541dp"
+        android:background="@drawable/ts_question_boxes"
+        android:layout_marginLeft="54dp"
+        android:layout_marginBottom="45dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        />
+
+    <ImageView
+        android:id="@+id/activities"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="64dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/report"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="120dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/ptsc"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="172dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/food"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="224dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/uniform"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="280dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/book"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="336dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/pay"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="388dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/classroom"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="444dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/managebac"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="496dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/locker"
+        android:layout_width="9dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="548dp"
+        android:background="@drawable/universal_arrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
