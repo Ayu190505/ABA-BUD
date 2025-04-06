@@ -30,7 +30,7 @@ Interactive onboarding guides for different school resources and procedures.
 ### 🗺️ Campus Map  
 Find buildings, facilities, and navigate the campus with ease.
 
-<p align="center">
+<p float="left">
   <img width="291" alt="Screenshot 2025-04-06 at 5 09 16 PM" src="https://github.com/user-attachments/assets/c36bee77-ff2b-481d-8036-c16987a5afc2" />
 </p>
 
@@ -39,7 +39,7 @@ Find buildings, facilities, and navigate the campus with ease.
 ### 🏃 Activities  
 Browse ongoing and upcoming events and clubs happening on campus.
 
-<p align="center">
+<p float="left">
   <img width="291" alt="Screenshot 2025-04-06 at 5 09 35 PM" src="https://github.com/user-attachments/assets/13928025-c8f4-446c-9a31-9bdddd2a6247" />
 </p>
 
@@ -48,7 +48,7 @@ Browse ongoing and upcoming events and clubs happening on campus.
 ### 🛍️ Shops & Essentials  
 Locate the closest bookstores, cafeterias, and student shops.
 
-<p align="center">
+<p float="left">
   <img width="291" alt="Screenshot 2025-04-06 at 5 09 10 PM" src="https://github.com/user-attachments/assets/e149e18b-dff4-40bc-8a8a-cbce48eec772" />
 </p>
 
