@@ -5,8 +5,52 @@
 ---
 
 ## 📱 Demo
+Here’s a preview of how **ABA BUD** works and looks on Android:
 
-While a full demo video isn’t available yet, UI/UX mockups and feature flows can be shared upon request. The prototype was developed in Android Studio using Java and XML, with design workflows built in Adobe XD.
+### 🏠 Home Screen  
+Welcome page and overview for new students.
+
+<p float="left">
+  <img width="296" alt="Screenshot 2025-04-06 at 5 08 38 PM" src="https://github.com/user-attachments/assets/8e49dc14-482f-4111-9845-511a2ff5e107" />
+  <img width="294" alt="Screenshot 2025-04-06 at 5 08 49 PM" src="https://github.com/user-attachments/assets/50e96ef7-37e2-444e-9d56-b37a1992b38a" />
+</p>
+
+---
+
+### 📖 Tutorials  
+Interactive onboarding guides for different school resources and procedures.
+
+<p float="left">
+  <img width="291" alt="Screenshot 2025-04-06 at 5 09 24 PM" src="https://github.com/user-attachments/assets/ec2568ba-0066-4ae3-b7dc-a0a8a7e91292" />
+  <img width="291" alt="Screenshot 2025-04-06 at 5 09 29 PM" src="https://github.com/user-attachments/assets/acf17a49-47da-4d39-b660-1bc18def59c6" />
+</p>
+
+---
+
+### 🗺️ Campus Map  
+Find buildings, facilities, and navigate the campus with ease.
+
+<p align="center">
+  <img width="291" alt="Screenshot 2025-04-06 at 5 09 16 PM" src="https://github.com/user-attachments/assets/c36bee77-ff2b-481d-8036-c16987a5afc2" />
+</p>
+
+---
+
+### 🏃 Activities  
+Browse ongoing and upcoming events and clubs happening on campus.
+
+<p align="center">
+  <img width="291" alt="Screenshot 2025-04-06 at 5 09 35 PM" src="https://github.com/user-attachments/assets/13928025-c8f4-446c-9a31-9bdddd2a6247" />
+</p>
+
+---
+
+### 🛍️ Shops & Essentials  
+Locate the closest bookstores, cafeterias, and student shops.
+
+<p align="center">
+  <img width="291" alt="Screenshot 2025-04-06 at 5 09 10 PM" src="https://github.com/user-attachments/assets/e149e18b-dff4-40bc-8a8a-cbce48eec772" />
+</p>
 
 ---
 
